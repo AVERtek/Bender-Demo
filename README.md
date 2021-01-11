@@ -1,2 +1,2 @@
-# Bender-Demo
-Bender animation demo for products and services.
+# Art Demo
+AR Art
